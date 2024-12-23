@@ -1,5 +1,9 @@
-/keys
 /node_modules
-/dist
-package-lock.json
+/keys
 .env
+
+/postgres
+
+dist/
+
+package-lock.json
